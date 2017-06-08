@@ -27,9 +27,7 @@ header nav ul li a{
 nav ul li a {
 	color : white;
 }
-p{
-	font-size: 30px;
-}
+
 header h1{
 	font-size: 60px;
 	text-align: center;
@@ -41,4 +39,13 @@ header h1{
 }
 header{
 	padding: 20px;
+}
+#nom{
+	font-size: 40px;
+}
+#job{
+	font-size: 20px;
+}
+#mail{
+	font-size: 30px;
 }
