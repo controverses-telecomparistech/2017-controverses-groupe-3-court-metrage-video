@@ -28,6 +28,11 @@ nav ul li a {
 	color : white;
 }
 
+.tree{
+	height: 700px;
+	width: 1200px;
+}
+
 header h1{
 	font-size: 60px;
 	text-align: center;
@@ -132,7 +137,7 @@ header{
     display: none;
 }
 .actree{
-	width: 2000px; 
+	width: 2000px;
 
 }
 .legend{

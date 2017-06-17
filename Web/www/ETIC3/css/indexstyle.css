@@ -42,3 +42,6 @@ header h1{
 header{
 	padding: 20px;
 }
+.container img{
+	height: 350px;
+}
